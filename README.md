@@ -6,7 +6,7 @@ This repo is created as part of Introduction to Machine Learning course assignme
 3. Visual story telling part 1: green buildings
 4. Visual story telling part 2: Capital Metro data
 5. Clustering and dimensionality reduction
-6. SMarket segmentation
+6. Market segmentation
 7. The Reuters corpus
 8. Association rule mining
 9. Image classification with neural networks
@@ -17,7 +17,8 @@ This repo is created as part of Introduction to Machine Learning course assignme
 3. Sanjhana Rangaraj
 4. Santhosh Ramkumar
 
-## LINK TO RMD FILE
+## LINK TO FILE
+
 
 
 
