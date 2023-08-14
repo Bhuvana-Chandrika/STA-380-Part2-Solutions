@@ -12,12 +12,13 @@ This repo is created as part of Introduction to Machine Learning course assignme
 9. Image classification with neural networks
 
 ### Team:
-1. Akshay Navaneetha Krishnan
-2. Bhuvana Chandrika Kothapalli
-3. Sanjhana Rangaraj
-4. Santhosh Ramkumar
+1. Akshay Navaneetha Krishnan (an34244)
+2. Bhuvana Chandrika Kothapalli (bk24542)
+3. Sanjhana Rangaraj (sr55737)
+4. Santhosh Ramkumar (sr55965)
 
 ## LINK TO FILE
+https://github.com/Bhuvana-Chandrika/STA-Part2-Solutions/tree/main
 
 
 
