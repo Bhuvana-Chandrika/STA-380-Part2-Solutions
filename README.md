@@ -18,9 +18,7 @@ This repo is created as part of Introduction to Machine Learning course assignme
 4. Santhosh Ramkumar (sr55965)
 
 ## LINK TO FILE
-https://github.com/Bhuvana-Chandrika/STA-Part2-Solutions/tree/main
-
-
+https://github.com/Bhuvana-Chandrika/STA-Part2-Solutions/blob/main/Codebase/ML%20Assignment%20Final.ipynb
 
 
 
